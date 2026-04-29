@@ -1,5 +1,5 @@
 # About Me:
-I'm A Junior ***Front-End*** Developer<br><br>***Skills:***<br>**1. React + TSX<br>2. Next.js<br>3. HTML5<br>4. CSS3<br>5. Javascript<br>6. Typescript<br>7. Python<br>8. C++<br>9. Lua<br>10. Visual Basic<br>11. CapCut<br><br>*Mail*: mrawan10152011@gmail.com<br>*Phone Number*: +201223569166**
+I'm A Junior ***Front-End*** Developer<br><br>***Skills:***<br>**1. React + TSX<br>2. Next.js<br>3. HTML5<br>4. CSS3<br>5. Javascript<br>6. Typescript<br>7. Python<br>8. C++<br>9. Lua<br>10. Visual Basic<br>11. Java<br>12. C#<br>13. CapCut<br><br>*Mail*: mrawan10152011@gmail.com<br>*Phone Number*: +201223569166**
 
 
 ## 🌐 Socials:
